@@ -1,1 +1,4 @@
 J'ai commencé à apprendre à coder depuis 3 mois.
+
+J'ai fait du HTML, du CSS, du PHP mais aussi du SQL ainsi que du python.
+Hier, j'ai commencé le JavaScript.
